@@ -8,10 +8,10 @@ A short version of [The_Regulated_Friction_Project](https://github.com/Leerrooy9
 
 Several groups are moving the same direction at once: federal restructuring, private tech executives stepping into public advisory roles, state governments trading public checks for corporate investment, and party discipline for anyone in the majority who breaks ranks. Each change was a deliberate choice by someone, but the groups don't need to be coordinating with each other. What changed is that the things that used to slow them down were removed, one at a time, mostly in public.
 
-The timing research backs this up. Friction events (scandals, releases, media cycles) come before compliance events (policy moves, deals, appointments) with a **7-day median lag, r = +0.6196, p = 0.0004**. Once the other checks are gone, public attention is the main thing left that can slow anything down, and the data shows things move when attention is elsewhere.
+The timing research backs this up. Friction events (scandals, releases, media cycles) come before compliance events (policy moves, deals, appointments) with a **7-day median lag, r = +0.6196, p = 0.0004** (the analysis that produced these results was done December 2025 with limited data, it's likely much more consistent). Once the other checks are gone, public attention is the main thing left that can slow anything down, and the data shows things move when attention is elsewhere.
 
 This is about correlation and structure. It doesn't claim causation, central coordination, or illegal activity.
-
+ 
 ---
 
 ## The files
