@@ -1,4 +1,4 @@
-# The Regulated Friction Project — Lite
+# The Regulated Friction Project — Lite v1.0
 
 A short version of [The_Regulated_Friction_Project](https://github.com/Leerrooy95/The_Regulated_Friction_Project), built so the whole project fits in one AI context window. It's seven files. Everything else stays in the main repo, and this repo links to it instead of copying it.
 
